@@ -25,4 +25,11 @@ You will need a C compiler (like `gcc` or `clang`).
 1. Clone this repository:
    ```bash
    git clone [https://github.com/your-username/contact-manager.git](https://github.com/your-username/contact-manager.git)
-   
+
+-------------
+📈 Future Improvements
+• [ ] Implement Binary Search for faster retrieval.
+• [ ] Add File I/O support to save and load contacts from a .txt or .csv file.
+• [ ] Dynamically allocate memory to allow for a flexible number of contacts.
+Created as part of my journey through CS50 - Introduction to Computer Science.
+
